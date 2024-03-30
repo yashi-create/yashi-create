@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yashi-create
-- 👀 I’m interested in coding and UX Design. I am keen to learn about other tech related fields too.
-- 🌱 I’m currently learning about UX Design.
-- 💞️ I’m looking to collaborate on projects related to UX.
-- 📫 How to reach me - yashi4846@gmail.com
+- 👀 I’m interested in DSA, Machine Learning, Deep Learning, and a little bit of development. I am keen to learn about other tech-related fields too.
+- 🌱 I like to build things for fun!
+- 📫 How to reach me - yashi.msc23.du@gmail.com
 
 <!---
 yashi-create/yashi-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
